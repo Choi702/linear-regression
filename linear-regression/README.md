@@ -15,4 +15,7 @@ Draw at least three conclusions from your regression model.
 Your notebook should be clutter free and polished.
 
 
+## Insurance cost determination:
+
+Was trying to determine what the cost may be for a certain age group
 
